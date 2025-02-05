@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "jolly-mouse-0f41",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4b0267c2-e3ba-46d3-8712-d8a0e34a72e8",
+      "database_name": "jolly-mouse-0f41-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
